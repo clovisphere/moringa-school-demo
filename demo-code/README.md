@@ -14,7 +14,7 @@ locust -f [*.py file] --host=[url] --no-web -c 10 -r 1
 locust -f [*.py file] --host=[url]
 ```
 
-To see all available options type `locust --help`. :heart::sparkles::sunglasses:
+To see all available options type `locust --help`.
 
 
 **Taurus**
@@ -24,3 +24,7 @@ Ensure you have [taurus](https://gettaurus.org/) installed. This assumes [locust
 ```
 bzt [YAML file] -report
 ```
+
+
+
+Build with :heart: in the [+254](https://www.wikiwand.com/en/Kenya)
