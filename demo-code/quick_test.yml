@@ -1,0 +1,11 @@
+execution:
+- executor: locust
+  concurrency: 10
+  ramp-up: 30s
+  hold-for: 1m
+  scenario: example
+
+scenarios:
+    example:
+        default-address: https://moringaschool.com
+        script: app.py
