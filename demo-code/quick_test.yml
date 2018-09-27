@@ -7,5 +7,5 @@ execution:
 
 scenarios:
     example:
-        default-address: https://moringaschool.com
+        default-address: [ADD_APP_URL]
         script: app.py
